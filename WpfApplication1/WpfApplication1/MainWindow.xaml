@@ -1113,6 +1113,7 @@
         <Button Content="Delete Statement" HorizontalAlignment="Left" Margin="252,10,0,0" VerticalAlignment="Top" Width="111" Height="38" Click="Button_Click_3"/>
         <Button Content="Get Statement" HorizontalAlignment="Left" Margin="368,10,0,0" VerticalAlignment="Top" Width="111" Height="38" Click="Button_Click_4"/>
         <Button Content="Combo Statement" HorizontalAlignment="Left" Margin="484,10,0,0" VerticalAlignment="Top" Width="111" Height="38" RenderTransformOrigin="0.529,0.571" Click="Button_Click_5"/>
+        <Button Content="Druk My" HorizontalAlignment="Left" Margin="682,48,0,0" VerticalAlignment="Top" Width="75"/>
 
     </Grid>
 </Window>
